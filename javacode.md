@@ -7,7 +7,7 @@ import java.util.Random;
 public class KFS_GregorianCalendarTester_Main 
 
 {
-    
+
     public static void main(String[] args)
     
     {
