@@ -1,5 +1,3 @@
-This program does a lot of things with Gregorian Calendar
-
 import java.util.GregorianCalendar;
 
 import java.util.Scanner;
